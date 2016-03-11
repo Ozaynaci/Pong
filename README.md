@@ -1,5 +1,5 @@
 # Pong
-A pong game
+A XNA monogame made pong game
 
 #Instructions
 This game can be played with two players.
